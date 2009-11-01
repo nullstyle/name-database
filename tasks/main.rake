@@ -22,3 +22,16 @@
   end
 end
 
+task :default => :db do
+
+  entry = @db.family_names.get "smith"
+  
+  @db.write
+end
+
+task :db do
+  $:.unshift File.dirname(__FILE__) + "/../lib"
+  require 'name-database'
+  
+  @db = NameDatabase.new(".")
+end
