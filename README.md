@@ -8,7 +8,7 @@ So I go to start working on a video game that relies heavily upon procedurally g
 
 This project aims to change that.
 
-## File Structure
+## Directory Structure
 
 The motivation for the file naming system is to keep file size down, especially for the family name section.  These data files are separated into 2 sections, given and family names, and then places into files based on the 2 letter prefix of the name. A 1 letter prefix is used as a folder to group files in.  Therefore, each section has 26 folders of 26 files each.
 
@@ -27,13 +27,23 @@ Several options are planned or currently available to add names to the db:  curr
 
 Ensuring a name is represented in the database is as simple as `rake name:given:adam` which will ensure that the adam name has an entry in the db.
 
-## Data file format
+## File Structure
 
-TODO
+Each data file is a single yaml document, whose root node is sequence.  Elements of the sequence can either be scalar string or a single-element mapping that maps a name to a set of meta data.  This may be easier to explain with an example:
+
+    ---
+    - scott  #single name with no meta data
+    - scott: #maps the name scott to the meta data below
+        gender: male
+        origin: gaelic
+        census1990:
+          frequency: 0.546
+          rank: 32
+        
 
 ## TODO
 
-- Build importer for both 1990 and 2000 census data
+- Build importer for both 1990 census data
 - Build Freebase importer that will take a person article and populate their name into the data files
-- Fine some good mythological and historical name lists, such we have data about
+- Find some good mythological and historical name lists, such we can have data for creating genre-appropriate names
 - Add a sqlite compiler that will produce a sqlite database from the input data files
