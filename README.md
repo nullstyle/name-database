@@ -43,7 +43,8 @@ Each data file is a single yaml document, whose root node is sequence.  Elements
 
 ## TODO
 
-- Build importer for both 1990 census data
+- Add gender proportions data for unisex names
+  - Should probably choose a gender when one gender vastly outweighs the other.  For example, Adam is generally considered a male name, but according to 1990 census data there are 0.001% of females named Adam.
 - Build Freebase importer that will take a person article and populate their name into the data files
 - Find some good mythological and historical name lists, such we can have data for creating genre-appropriate names
 - Add a sqlite compiler that will produce a sqlite database from the input data files
