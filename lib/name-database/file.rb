@@ -16,6 +16,11 @@ class NameDatabase::File
     @entries[name] ||= NameDatabase::Entry.new(self.set, self, name)    
   end
   
+  def each(&block)
+    load
+    @entries.values.each(&block)
+  end
+  
   def write
     # convert entries to format suitable for yaml
     # write to file

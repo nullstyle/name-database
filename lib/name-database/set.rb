@@ -26,6 +26,16 @@ class NameDatabase::Set
     parsed_files.values.each(&:write)
   end
   
+  def all_files
+    Dir["#{base_path}/**/*.yml"].map{|p| get_file(p)}
+  end
+  
+  def each(&block)
+    all_files.each do |file|
+      file.each(&block)
+    end
+  end
+  
   private
   def get_file(path)
     parsed_files[path] ||= NameDatabase::File.new(self, path)
