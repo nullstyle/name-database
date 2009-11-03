@@ -1,6 +1,6 @@
 --- 
 - jean: 
-    gender: male
+    gender: unisex
 - jeana: 
     gender: female
 - jeane: 
@@ -48,7 +48,7 @@
 - jeffie: 
     gender: female
 - jeffrey: 
-    gender: male
+    gender: unisex
 - jeffry: 
     gender: male
 - jen: 
@@ -112,7 +112,7 @@
 - jeremiah: 
     gender: male
 - jeremy: 
-    gender: male
+    gender: unisex
 - jeri: 
     gender: female
 - jerica: 
@@ -142,7 +142,7 @@
 - jerrold: 
     gender: male
 - jerry: 
-    gender: male
+    gender: unisex
 - jesenia: 
     gender: female
 - jesica: 
@@ -150,7 +150,7 @@
 - jess: 
     gender: male
 - jesse: 
-    gender: male
+    gender: unisex
 - jessenia: 
     gender: female
 - jessi: 
@@ -160,13 +160,13 @@
 - jessica: 
     gender: female
 - jessie: 
-    gender: male
+    gender: unisex
 - jessika: 
     gender: female
 - jestine: 
     gender: female
 - jesus: 
-    gender: male
+    gender: unisex
 - jesusa: 
     gender: female
 - jesusita: 
@@ -176,6 +176,6 @@
 - jettie: 
     gender: female
 - jewel: 
-    gender: male
+    gender: unisex
 - jewell: 
-    gender: male
+    gender: unisex

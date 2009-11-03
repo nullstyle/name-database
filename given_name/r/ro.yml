@@ -4,7 +4,7 @@
 - robbi: 
     gender: female
 - robbie: 
-    gender: male
+    gender: unisex
 - robbin: 
     gender: female
 - robby: 
@@ -14,13 +14,13 @@
 - robena: 
     gender: female
 - robert: 
-    gender: male
+    gender: unisex
 - roberta: 
     gender: female
 - roberto: 
-    gender: male
+    gender: unisex
 - robin: 
-    gender: male
+    gender: unisex
 - robt: 
     gender: male
 - robyn: 
@@ -86,7 +86,7 @@
 - rona: 
     gender: female
 - ronald: 
-    gender: male
+    gender: unisex
 - ronda: 
     gender: female
 - roni: 
@@ -96,13 +96,13 @@
 - ronni: 
     gender: female
 - ronnie: 
-    gender: male
+    gender: unisex
 - ronny: 
     gender: male
 - roosevelt: 
     gender: male
 - rory: 
-    gender: male
+    gender: unisex
 - rosa: 
     gender: female
 - rosalba: 
@@ -140,7 +140,7 @@
 - rosaria: 
     gender: female
 - rosario: 
-    gender: male
+    gender: unisex
 - rosaura: 
     gender: female
 - roscoe: 
@@ -216,11 +216,11 @@
 - roxy: 
     gender: female
 - roy: 
-    gender: male
+    gender: unisex
 - royal: 
     gender: male
 - royce: 
-    gender: male
+    gender: unisex
 - rozanne: 
     gender: female
 - rozella: 

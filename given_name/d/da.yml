@@ -18,7 +18,7 @@
 - dakota: 
     gender: female
 - dale: 
-    gender: male
+    gender: unisex
 - dalene: 
     gender: female
 - dalia: 
@@ -26,7 +26,7 @@
 - dalila: 
     gender: female
 - dallas: 
-    gender: male
+    gender: unisex
 - dalton: 
     gender: male
 - damaris: 
@@ -40,9 +40,9 @@
 - damon: 
     gender: male
 - dan: 
-    gender: male
+    gender: unisex
 - dana: 
-    gender: male
+    gender: unisex
 - danae: 
     gender: female
 - dane: 
@@ -60,7 +60,7 @@
 - danica: 
     gender: female
 - daniel: 
-    gender: male
+    gender: unisex
 - daniela: 
     gender: female
 - daniele: 
@@ -86,7 +86,7 @@
 - dannette: 
     gender: female
 - dannie: 
-    gender: male
+    gender: unisex
 - dannielle: 
     gender: female
 - danny: 
@@ -142,7 +142,7 @@
 - darline: 
     gender: female
 - darnell: 
-    gender: male
+    gender: unisex
 - daron: 
     gender: male
 - darrel: 
@@ -162,11 +162,11 @@
 - darwin: 
     gender: male
 - daryl: 
-    gender: male
+    gender: unisex
 - dave: 
     gender: male
 - david: 
-    gender: male
+    gender: unisex
 - davida: 
     gender: female
 - davina: 

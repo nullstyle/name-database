@@ -18,7 +18,7 @@
 - camellia: 
     gender: female
 - cameron: 
-    gender: male
+    gender: unisex
 - cami: 
     gender: female
 - camie: 
@@ -62,7 +62,7 @@
 - caren: 
     gender: female
 - carey: 
-    gender: male
+    gender: unisex
 - cari: 
     gender: female
 - caridad: 
@@ -80,7 +80,7 @@
 - carita: 
     gender: female
 - carl: 
-    gender: male
+    gender: unisex
 - carla: 
     gender: female
 - carlee: 
@@ -106,7 +106,7 @@
 - carlo: 
     gender: male
 - carlos: 
-    gender: male
+    gender: unisex
 - carlota: 
     gender: female
 - carlotta: 
@@ -136,7 +136,7 @@
 - carmelo: 
     gender: male
 - carmen: 
-    gender: male
+    gender: unisex
 - carmina: 
     gender: female
 - carmine: 
@@ -144,7 +144,7 @@
 - carmon: 
     gender: female
 - carol: 
-    gender: male
+    gender: unisex
 - carola: 
     gender: female
 - carolann: 
@@ -176,9 +176,9 @@
 - carrie: 
     gender: female
 - carrol: 
-    gender: male
+    gender: unisex
 - carroll: 
-    gender: male
+    gender: unisex
 - carry: 
     gender: female
 - carson: 
@@ -186,7 +186,7 @@
 - carter: 
     gender: male
 - cary: 
-    gender: male
+    gender: unisex
 - caryl: 
     gender: female
 - carylon: 
@@ -196,7 +196,7 @@
 - casandra: 
     gender: female
 - casey: 
-    gender: male
+    gender: unisex
 - casie: 
     gender: female
 - casimira: 

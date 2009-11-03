@@ -2,19 +2,19 @@
 - tracee: 
     gender: female
 - tracey: 
-    gender: male
+    gender: unisex
 - traci: 
     gender: female
 - tracie: 
     gender: female
 - tracy: 
-    gender: male
+    gender: unisex
 - tran: 
     gender: female
 - trang: 
     gender: female
 - travis: 
-    gender: male
+    gender: unisex
 - treasa: 
     gender: female
 - treena: 
@@ -44,7 +44,7 @@
 - trinh: 
     gender: female
 - trinidad: 
-    gender: male
+    gender: unisex
 - trinity: 
     gender: female
 - trish: 
@@ -54,9 +54,9 @@
 - trista: 
     gender: female
 - tristan: 
-    gender: male
+    gender: unisex
 - troy: 
-    gender: male
+    gender: unisex
 - trudi: 
     gender: female
 - trudie: 

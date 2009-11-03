@@ -2,7 +2,7 @@
 - stacee: 
     gender: female
 - stacey: 
-    gender: male
+    gender: unisex
 - staci: 
     gender: female
 - stacia: 
@@ -10,7 +10,7 @@
 - stacie: 
     gender: female
 - stacy: 
-    gender: male
+    gender: unisex
 - stan: 
     gender: male
 - stanford: 
@@ -58,7 +58,7 @@
 - stephany: 
     gender: female
 - stephen: 
-    gender: male
+    gender: unisex
 - stephenie: 
     gender: female
 - stephine: 
@@ -70,9 +70,9 @@
 - steve: 
     gender: male
 - steven: 
-    gender: male
+    gender: unisex
 - stevie: 
-    gender: male
+    gender: unisex
 - stewart: 
     gender: male
 - stormy: 

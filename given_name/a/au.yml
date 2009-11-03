@@ -1,6 +1,6 @@
 --- 
 - aubrey: 
-    gender: male
+    gender: unisex
 - audie: 
     gender: female
 - audra: 
@@ -22,7 +22,7 @@
 - augustina: 
     gender: female
 - augustine: 
-    gender: male
+    gender: unisex
 - augustus: 
     gender: male
 - aundrea: 
@@ -40,6 +40,6 @@
 - aurore: 
     gender: female
 - austin: 
-    gender: male
+    gender: unisex
 - autumn: 
     gender: female

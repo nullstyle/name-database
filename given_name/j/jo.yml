@@ -2,7 +2,7 @@
 - jo: 
     gender: female
 - joan: 
-    gender: male
+    gender: unisex
 - joana: 
     gender: female
 - joane: 
@@ -30,13 +30,13 @@
 - jodie: 
     gender: female
 - jody: 
-    gender: male
+    gender: unisex
 - joe: 
-    gender: male
+    gender: unisex
 - joeann: 
     gender: female
 - joel: 
-    gender: male
+    gender: unisex
 - joella: 
     gender: female
 - joelle: 
@@ -50,7 +50,7 @@
 - joette: 
     gender: female
 - joey: 
-    gender: male
+    gender: unisex
 - johana: 
     gender: female
 - johanna: 
@@ -58,7 +58,7 @@
 - johanne: 
     gender: female
 - john: 
-    gender: male
+    gender: unisex
 - johna: 
     gender: female
 - johnathan: 
@@ -70,13 +70,13 @@
 - johnette: 
     gender: female
 - johnie: 
-    gender: male
+    gender: unisex
 - johnna: 
     gender: female
 - johnnie: 
-    gender: male
+    gender: unisex
 - johnny: 
-    gender: male
+    gender: unisex
 - johnsie: 
     gender: female
 - johnson: 
@@ -100,7 +100,7 @@
 - jolynn: 
     gender: female
 - jon: 
-    gender: male
+    gender: unisex
 - jona: 
     gender: female
 - jonah: 
@@ -128,13 +128,13 @@
 - jonnie: 
     gender: female
 - jordan: 
-    gender: male
+    gender: unisex
 - jordon: 
     gender: male
 - jorge: 
     gender: male
 - jose: 
-    gender: male
+    gender: unisex
 - josef: 
     gender: male
 - josefa: 
@@ -146,7 +146,7 @@
 - joselyn: 
     gender: female
 - joseph: 
-    gender: male
+    gender: unisex
 - josephina: 
     gender: female
 - josephine: 
@@ -156,7 +156,7 @@
 - josh: 
     gender: male
 - joshua: 
-    gender: male
+    gender: unisex
 - josiah: 
     gender: male
 - josie: 

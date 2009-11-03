@@ -1,12 +1,12 @@
 --- 
 - juan: 
-    gender: male
+    gender: unisex
 - juana: 
     gender: female
 - juanita: 
     gender: female
 - jude: 
-    gender: male
+    gender: unisex
 - judi: 
     gender: female
 - judie: 
@@ -30,7 +30,7 @@
 - julia: 
     gender: female
 - julian: 
-    gender: male
+    gender: unisex
 - juliana: 
     gender: female
 - juliane: 
@@ -56,7 +56,7 @@
 - juliette: 
     gender: female
 - julio: 
-    gender: female
+    gender: unisex
 - julissa: 
     gender: female
 - julius: 
@@ -76,7 +76,7 @@
 - justa: 
     gender: female
 - justin: 
-    gender: male
+    gender: unisex
 - justina: 
     gender: female
 - justine: 

@@ -1,6 +1,6 @@
 --- 
 - gabriel: 
-    gender: male
+    gender: unisex
 - gabriela: 
     gender: female
 - gabriele: 
@@ -10,11 +10,11 @@
 - gabrielle: 
     gender: female
 - gail: 
-    gender: male
+    gender: unisex
 - gala: 
     gender: female
 - gale: 
-    gender: male
+    gender: unisex
 - galen: 
     gender: male
 - galina: 
@@ -36,7 +36,7 @@
 - garth: 
     gender: male
 - gary: 
-    gender: male
+    gender: unisex
 - gaston: 
     gender: male
 - gavin: 
@@ -48,7 +48,7 @@
 - gayla: 
     gender: female
 - gayle: 
-    gender: male
+    gender: unisex
 - gaylene: 
     gender: female
 - gaylord: 

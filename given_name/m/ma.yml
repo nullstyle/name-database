@@ -132,7 +132,7 @@
 - mammie: 
     gender: female
 - man: 
-    gender: male
+    gender: unisex
 - mana: 
     gender: female
 - manda: 
@@ -274,7 +274,7 @@
 - mari: 
     gender: female
 - maria: 
-    gender: male
+    gender: unisex
 - mariah: 
     gender: female
 - mariam: 
@@ -338,9 +338,9 @@
 - marine: 
     gender: female
 - mario: 
-    gender: male
+    gender: unisex
 - marion: 
-    gender: male
+    gender: unisex
 - maris: 
     gender: female
 - marisa: 
@@ -364,7 +364,7 @@
 - marjory: 
     gender: female
 - mark: 
-    gender: male
+    gender: unisex
 - marketta: 
     gender: female
 - markita: 
@@ -384,7 +384,7 @@
 - marlene: 
     gender: female
 - marlin: 
-    gender: male
+    gender: unisex
 - marline: 
     gender: female
 - marlo: 
@@ -416,7 +416,7 @@
 - marsha: 
     gender: female
 - marshall: 
-    gender: male
+    gender: unisex
 - marta: 
     gender: female
 - marth: 
@@ -426,13 +426,13 @@
 - marti: 
     gender: female
 - martin: 
-    gender: male
+    gender: unisex
 - martina: 
     gender: female
 - martine: 
     gender: female
 - marty: 
-    gender: male
+    gender: unisex
 - marva: 
     gender: female
 - marvel: 
@@ -446,7 +446,7 @@
 - marx: 
     gender: female
 - mary: 
-    gender: male
+    gender: unisex
 - marya: 
     gender: female
 - maryalice: 
@@ -508,7 +508,7 @@
 - matt: 
     gender: male
 - matthew: 
-    gender: male
+    gender: unisex
 - mattie: 
     gender: female
 - maud: 
@@ -522,7 +522,7 @@
 - maureen: 
     gender: female
 - maurice: 
-    gender: male
+    gender: unisex
 - mauricio: 
     gender: male
 - maurine: 

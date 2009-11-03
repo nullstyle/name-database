@@ -38,7 +38,7 @@
 - salvatore: 
     gender: male
 - sam: 
-    gender: male
+    gender: unisex
 - samantha: 
     gender: female
 - samara: 
@@ -50,13 +50,13 @@
 - samira: 
     gender: female
 - sammie: 
-    gender: male
+    gender: unisex
 - sammy: 
-    gender: male
+    gender: unisex
 - samual: 
     gender: male
 - samuel: 
-    gender: male
+    gender: unisex
 - sana: 
     gender: female
 - sanda: 
@@ -70,11 +70,11 @@
 - sandra: 
     gender: female
 - sandy: 
-    gender: male
+    gender: unisex
 - sanford: 
     gender: male
 - sang: 
-    gender: male
+    gender: unisex
 - sanjuana: 
     gender: female
 - sanjuanita: 
@@ -92,7 +92,7 @@
 - santo: 
     gender: male
 - santos: 
-    gender: male
+    gender: unisex
 - sara: 
     gender: female
 - sarah: 

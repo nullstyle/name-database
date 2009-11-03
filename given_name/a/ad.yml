@@ -8,7 +8,7 @@
 - adaline: 
     gender: female
 - adam: 
-    gender: female
+    gender: unisex
 - adan: 
     gender: male
 - addie: 
@@ -44,7 +44,7 @@
 - adria: 
     gender: female
 - adrian: 
-    gender: male
+    gender: unisex
 - adriana: 
     gender: female
 - adriane: 

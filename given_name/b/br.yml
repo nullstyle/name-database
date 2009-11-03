@@ -24,7 +24,7 @@
 - brandie: 
     gender: female
 - brandon: 
-    gender: male
+    gender: unisex
 - brandy: 
     gender: female
 - brant: 
@@ -54,9 +54,9 @@
 - bret: 
     gender: male
 - brett: 
-    gender: male
+    gender: unisex
 - brian: 
-    gender: male
+    gender: unisex
 - briana: 
     gender: female
 - brianna: 
@@ -88,7 +88,7 @@
 - britni: 
     gender: female
 - britt: 
-    gender: male
+    gender: unisex
 - britta: 
     gender: female
 - brittaney: 

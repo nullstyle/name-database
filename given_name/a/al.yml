@@ -18,7 +18,7 @@
 - alba: 
     gender: female
 - albert: 
-    gender: male
+    gender: unisex
 - alberta: 
     gender: female
 - albertha: 
@@ -76,11 +76,11 @@
 - alethia: 
     gender: female
 - alex: 
-    gender: male
+    gender: unisex
 - alexa: 
     gender: female
 - alexander: 
-    gender: male
+    gender: unisex
 - alexandra: 
     gender: female
 - alexandria: 
@@ -88,7 +88,7 @@
 - alexia: 
     gender: female
 - alexis: 
-    gender: male
+    gender: unisex
 - alfonso: 
     gender: male
 - alfonzo: 
@@ -102,7 +102,7 @@
 - alfredo: 
     gender: male
 - ali: 
-    gender: male
+    gender: unisex
 - alia: 
     gender: female
 - alica: 
@@ -146,7 +146,7 @@
 - allegra: 
     gender: female
 - allen: 
-    gender: male
+    gender: unisex
 - allena: 
     gender: female
 - allene: 
@@ -190,7 +190,7 @@
 - alton: 
     gender: male
 - alva: 
-    gender: male
+    gender: unisex
 - alvaro: 
     gender: male
 - alvera: 

@@ -2,7 +2,7 @@
 - deadra: 
     gender: female
 - dean: 
-    gender: male
+    gender: unisex
 - deana: 
     gender: female
 - deandra: 
@@ -50,7 +50,7 @@
 - dedra: 
     gender: female
 - dee: 
-    gender: male
+    gender: unisex
 - deeann: 
     gender: female
 - deeanna: 
@@ -142,7 +142,7 @@
 - demetrice: 
     gender: female
 - demetrius: 
-    gender: male
+    gender: unisex
 - dena: 
     gender: female
 - denae: 
@@ -166,17 +166,17 @@
 - denna: 
     gender: female
 - dennis: 
-    gender: male
+    gender: unisex
 - dennise: 
     gender: female
 - denny: 
-    gender: male
+    gender: unisex
 - denver: 
     gender: male
 - denyse: 
     gender: female
 - deon: 
-    gender: male
+    gender: unisex
 - deonna: 
     gender: female
 - derek: 
@@ -204,9 +204,9 @@
 - detra: 
     gender: female
 - devin: 
-    gender: male
+    gender: unisex
 - devon: 
-    gender: male
+    gender: unisex
 - devona: 
     gender: female
 - devora: 

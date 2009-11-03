@@ -2,7 +2,7 @@
 - loan: 
     gender: female
 - logan: 
-    gender: male
+    gender: unisex
 - loida: 
     gender: female
 - lois: 
@@ -28,7 +28,7 @@
 - lonna: 
     gender: female
 - lonnie: 
-    gender: male
+    gender: unisex
 - lonny: 
     gender: male
 - lora: 
@@ -48,7 +48,7 @@
 - lorelei: 
     gender: female
 - loren: 
-    gender: male
+    gender: unisex
 - lorena: 
     gender: female
 - lorene: 
@@ -102,7 +102,7 @@
 - lottie: 
     gender: female
 - lou: 
-    gender: male
+    gender: unisex
 - louann: 
     gender: female
 - louanne: 
@@ -112,9 +112,9 @@
 - louetta: 
     gender: female
 - louie: 
-    gender: male
+    gender: unisex
 - louis: 
-    gender: male
+    gender: unisex
 - louisa: 
     gender: female
 - louise: 

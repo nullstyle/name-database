@@ -2,9 +2,9 @@
 - codi: 
     gender: female
 - cody: 
-    gender: male
+    gender: unisex
 - colby: 
-    gender: male
+    gender: unisex
 - cole: 
     gender: male
 - coleen: 
@@ -44,7 +44,7 @@
 - conchita: 
     gender: female
 - connie: 
-    gender: male
+    gender: unisex
 - conrad: 
     gender: male
 - constance: 
@@ -80,7 +80,7 @@
 - coretta: 
     gender: female
 - corey: 
-    gender: male
+    gender: unisex
 - cori: 
     gender: female
 - corie: 
@@ -116,8 +116,8 @@
 - cortney: 
     gender: female
 - cory: 
-    gender: male
+    gender: unisex
 - courtney: 
-    gender: male
+    gender: unisex
 - coy: 
     gender: male
