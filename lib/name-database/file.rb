@@ -8,6 +8,7 @@ class NameDatabase::File
     @set = set
     @path = path
     @entries = {}
+    @loaded = false
   end
   
   def get(name)
@@ -39,7 +40,9 @@ class NameDatabase::File
   end
   
   def load    
+    return if @loaded
     return unless File.exists?(path)
+    
     raw_data = YAML.load(IO.read path)
     validate raw_data
     
@@ -48,6 +51,7 @@ class NameDatabase::File
       existing = @entries[entry.name] 
       @entries[entry.name] = existing ? existing.merge(entry) : entry
     end
+    @loaded = true
   end
 
 

@@ -44,7 +44,13 @@ namespace :importers do
     end
         
     task :family => :db do
-      
+      open("sources/census-1990/dist.all.last", 'r') do |file|        
+        file.each do |line|
+          fields = line.split(/\s+/)
+          name = fields.first
+          @db.family_names.get name
+        end
+      end
     end
     
     
