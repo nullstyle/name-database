@@ -1,5 +1,9 @@
 directory "out"
 
+task "clean" do
+  FileUtils.rm_rf "out"
+end
+
 ["given", "family"].each do |set|
   
   rule Regexp.new("name:#{set}:[a-z]+") do |t|
