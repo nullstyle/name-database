@@ -95,6 +95,8 @@
     gender: male
 - james: 
     gender: unisex
+    census1990:
+      frequency: 3.318
 - jamey: 
     gender: unisex
 - jami: 

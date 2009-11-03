@@ -20,6 +20,25 @@ class NameDatabase::Entry
     end
   end
   
+  def metadata_without_nesting
+    returning({}) do |result|
+      NameDatabase::Entry.flattened_meta("", result, meta)
+    end
+  end
+  
+  def self.flattened_meta(prefix, result, meta)
+    meta.each do |key, value|
+      flattened_key = prefix.blank? ? key : "#{prefix}/#{key}"
+      
+      case value
+      when Hash
+        result.merge! flattened_meta(flattened_key, result, value)
+      else
+        result[flattened_key] = value
+      end
+    end
+  end
+  
   
   def path()
     set.data_file_path(name)
