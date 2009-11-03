@@ -13,14 +13,34 @@ namespace :importers do
           fields = line.split(/\s+/)
           name = fields.first
           entry = @db.given_names.get name
-          entry.meta[:gender] = "male"
+          
+          
+          entry.meta[:gender] = case entry.meta[:gender]
+                                when "female", "unisex" then
+                                  "unisex"
+                                else
+                                  "male"
+                                end
         end
       end
       
     end
       
     task :female => :db do
-      
+      open("sources/census-1990/dist.female.first", 'r') do |file|        
+        file.each do |line|
+          fields = line.split(/\s+/)
+          name = fields.first
+          entry = @db.given_names.get name
+          
+          entry.meta[:gender] = case entry.meta[:gender]
+                                when "male", "unisex" then
+                                  "unisex"
+                                else
+                                  "female"
+                                end
+        end
+      end
     end
         
     task :family => :db do

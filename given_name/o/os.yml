@@ -1,6 +1,8 @@
 --- 
 - oscar: 
-    gender: male
+    gender: female
+- ossie: 
+    gender: female
 - osvaldo: 
     gender: male
 - oswaldo: 

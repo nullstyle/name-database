@@ -1,6 +1,14 @@
 --- 
+- stacee: 
+    gender: female
 - stacey: 
     gender: male
+- staci: 
+    gender: female
+- stacia: 
+    gender: female
+- stacie: 
+    gender: female
 - stacy: 
     gender: male
 - stan: 
@@ -11,12 +19,52 @@
     gender: male
 - stanton: 
     gender: male
+- star: 
+    gender: female
+- starla: 
+    gender: female
+- starr: 
+    gender: female
+- stasia: 
+    gender: female
 - stefan: 
     gender: male
+- stefani: 
+    gender: female
+- stefania: 
+    gender: female
+- stefanie: 
+    gender: female
+- stefany: 
+    gender: female
+- steffanie: 
+    gender: female
+- stella: 
+    gender: female
+- stepanie: 
+    gender: female
+- stephaine: 
+    gender: female
 - stephan: 
     gender: male
+- stephane: 
+    gender: female
+- stephani: 
+    gender: female
+- stephania: 
+    gender: female
+- stephanie: 
+    gender: female
+- stephany: 
+    gender: female
 - stephen: 
     gender: male
+- stephenie: 
+    gender: female
+- stephine: 
+    gender: female
+- stephnie: 
+    gender: female
 - sterling: 
     gender: male
 - steve: 
@@ -27,5 +75,7 @@
     gender: male
 - stewart: 
     gender: male
+- stormy: 
+    gender: female
 - stuart: 
     gender: male

@@ -1,16 +1,38 @@
 --- 
+- isa: 
+    gender: female
 - isaac: 
     gender: male
+- isabel: 
+    gender: female
+- isabell: 
+    gender: female
+- isabella: 
+    gender: female
+- isabelle: 
+    gender: female
+- isadora: 
+    gender: female
 - isaiah: 
     gender: male
 - isaias: 
     gender: male
+- isaura: 
+    gender: female
+- isela: 
+    gender: female
 - isiah: 
     gender: male
+- isidra: 
+    gender: female
 - isidro: 
     gender: male
+- isis: 
+    gender: female
 - ismael: 
     gender: male
+- isobel: 
+    gender: female
 - israel: 
     gender: male
 - isreal: 

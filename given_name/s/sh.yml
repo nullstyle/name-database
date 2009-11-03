@@ -1,27 +1,329 @@
 --- 
+- sha: 
+    gender: female
 - shad: 
     gender: male
+- shae: 
+    gender: female
+- shaina: 
+    gender: female
+- shakia: 
+    gender: female
+- shakira: 
+    gender: female
+- shakita: 
+    gender: female
+- shala: 
+    gender: female
+- shalanda: 
+    gender: female
+- shalon: 
+    gender: female
+- shalonda: 
+    gender: female
+- shameka: 
+    gender: female
+- shamika: 
+    gender: female
+- shan: 
+    gender: female
+- shana: 
+    gender: female
+- shanae: 
+    gender: female
+- shanda: 
+    gender: female
+- shandi: 
+    gender: female
+- shandra: 
+    gender: female
 - shane: 
     gender: male
+- shaneka: 
+    gender: female
+- shanel: 
+    gender: female
+- shanell: 
+    gender: female
+- shanelle: 
+    gender: female
+- shani: 
+    gender: female
+- shanice: 
+    gender: female
+- shanika: 
+    gender: female
+- shaniqua: 
+    gender: female
+- shanita: 
+    gender: female
+- shanna: 
+    gender: female
+- shannan: 
+    gender: female
 - shannon: 
     gender: male
+- shanon: 
+    gender: female
+- shanta: 
+    gender: female
+- shantae: 
+    gender: female
+- shantay: 
+    gender: female
+- shante: 
+    gender: female
+- shantel: 
+    gender: female
+- shantell: 
+    gender: female
+- shantelle: 
+    gender: female
+- shanti: 
+    gender: female
+- shaquana: 
+    gender: female
+- shaquita: 
+    gender: female
+- shara: 
+    gender: female
+- sharan: 
+    gender: female
+- sharda: 
+    gender: female
+- sharee: 
+    gender: female
+- sharell: 
+    gender: female
+- sharen: 
+    gender: female
+- shari: 
+    gender: female
+- sharice: 
+    gender: female
+- sharie: 
+    gender: female
+- sharika: 
+    gender: female
+- sharilyn: 
+    gender: female
+- sharita: 
+    gender: female
+- sharla: 
+    gender: female
+- sharleen: 
+    gender: female
+- sharlene: 
+    gender: female
+- sharmaine: 
+    gender: female
+- sharolyn: 
+    gender: female
+- sharon: 
+    gender: female
+- sharonda: 
+    gender: female
+- sharri: 
+    gender: female
+- sharron: 
+    gender: female
+- sharyl: 
+    gender: female
+- sharyn: 
+    gender: female
+- shasta: 
+    gender: female
 - shaun: 
     gender: male
+- shauna: 
+    gender: female
+- shaunda: 
+    gender: female
+- shaunna: 
+    gender: female
+- shaunta: 
+    gender: female
+- shaunte: 
+    gender: female
+- shavon: 
+    gender: female
+- shavonda: 
+    gender: female
+- shavonne: 
+    gender: female
+- shawana: 
+    gender: female
+- shawanda: 
+    gender: female
+- shawanna: 
+    gender: female
 - shawn: 
     gender: male
+- shawna: 
+    gender: female
+- shawnda: 
+    gender: female
+- shawnee: 
+    gender: female
+- shawnna: 
+    gender: female
+- shawnta: 
+    gender: female
+- shay: 
+    gender: female
+- shayla: 
+    gender: female
+- shayna: 
+    gender: female
 - shayne: 
     gender: male
+- shea: 
+    gender: female
+- sheba: 
+    gender: female
+- sheena: 
+    gender: female
+- sheila: 
+    gender: female
+- sheilah: 
+    gender: female
+- shela: 
+    gender: female
+- shelba: 
+    gender: female
 - shelby: 
     gender: male
 - sheldon: 
     gender: male
+- shelia: 
+    gender: female
+- shella: 
+    gender: female
+- shelley: 
+    gender: female
+- shelli: 
+    gender: female
+- shellie: 
+    gender: female
+- shelly: 
+    gender: female
 - shelton: 
     gender: male
+- shemeka: 
+    gender: female
+- shemika: 
+    gender: female
+- shena: 
+    gender: female
+- shenika: 
+    gender: female
+- shenita: 
+    gender: female
+- shenna: 
+    gender: female
+- shera: 
+    gender: female
+- sheree: 
+    gender: female
+- sherell: 
+    gender: female
+- sheri: 
+    gender: female
+- sherice: 
+    gender: female
+- sheridan: 
+    gender: female
+- sherie: 
+    gender: female
+- sherika: 
+    gender: female
+- sherill: 
+    gender: female
+- sherilyn: 
+    gender: female
+- sherise: 
+    gender: female
+- sherita: 
+    gender: female
+- sherlene: 
+    gender: female
+- sherley: 
+    gender: female
+- sherly: 
+    gender: female
+- sherlyn: 
+    gender: female
 - sherman: 
     gender: male
+- sheron: 
+    gender: female
+- sherrell: 
+    gender: female
+- sherri: 
+    gender: female
+- sherrie: 
+    gender: female
+- sherril: 
+    gender: female
+- sherrill: 
+    gender: female
+- sherron: 
+    gender: female
+- sherry: 
+    gender: female
+- sherryl: 
+    gender: female
 - sherwood: 
     gender: male
+- shery: 
+    gender: female
+- sheryl: 
+    gender: female
+- sheryll: 
+    gender: female
+- shiela: 
+    gender: female
+- shila: 
+    gender: female
+- shiloh: 
+    gender: female
+- shin: 
+    gender: female
+- shira: 
+    gender: female
+- shirely: 
+    gender: female
+- shirl: 
+    gender: female
+- shirlee: 
+    gender: female
+- shirleen: 
+    gender: female
+- shirlene: 
+    gender: female
 - shirley: 
     gender: male
+- shirly: 
+    gender: female
+- shizue: 
+    gender: female
+- shizuko: 
+    gender: female
 - shon: 
     gender: male
+- shona: 
+    gender: female
+- shonda: 
+    gender: female
+- shondra: 
+    gender: female
+- shonna: 
+    gender: female
+- shonta: 
+    gender: female
+- shoshana: 
+    gender: female
+- shu: 
+    gender: female
+- shyla: 
+    gender: female

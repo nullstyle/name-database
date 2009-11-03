@@ -1,9 +1,13 @@
 --- 
+- scarlet: 
+    gender: female
+- scarlett: 
+    gender: female
 - scot: 
     gender: male
 - scott: 
     gender: male
 - scottie: 
-    gender: male
+    gender: unisex
 - scotty: 
     gender: male

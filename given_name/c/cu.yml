@@ -1,5 +1,7 @@
 --- 
+- cuc: 
+    gender: female
 - curt: 
     gender: male
 - curtis: 
-    gender: male
+    gender: female

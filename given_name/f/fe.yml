@@ -1,8 +1,30 @@
 --- 
+- fe: 
+    gender: female
 - federico: 
     gender: male
+- felecia: 
+    gender: female
+- felica: 
+    gender: female
+- felice: 
+    gender: female
+- felicia: 
+    gender: female
+- felicidad: 
+    gender: female
+- felicita: 
+    gender: female
+- felicitas: 
+    gender: female
+- felipa: 
+    gender: female
 - felipe: 
     gender: male
+- felisa: 
+    gender: female
+- felisha: 
+    gender: female
 - felix: 
     gender: male
 - felton: 
@@ -11,5 +33,15 @@
     gender: male
 - fermin: 
     gender: male
+- fermina: 
+    gender: female
+- fern: 
+    gender: female
+- fernanda: 
+    gender: female
+- fernande: 
+    gender: female
 - fernando: 
     gender: male
+- ferne: 
+    gender: female

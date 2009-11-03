@@ -1,10 +1,38 @@
 --- 
+- ha: 
+    gender: female
+- hae: 
+    gender: female
 - hai: 
     gender: male
+- hailey: 
+    gender: female
 - hal: 
     gender: male
+- haley: 
+    gender: female
+- halina: 
+    gender: female
+- halley: 
+    gender: female
+- hallie: 
+    gender: female
+- han: 
+    gender: female
+- hana: 
+    gender: female
+- hang: 
+    gender: female
+- hanh: 
+    gender: female
 - hank: 
     gender: male
+- hanna: 
+    gender: female
+- hannah: 
+    gender: female
+- hannelore: 
+    gender: female
 - hans: 
     gender: male
 - harlan: 
@@ -13,8 +41,16 @@
     gender: male
 - harley: 
     gender: male
+- harmony: 
+    gender: female
 - harold: 
     gender: male
+- harriet: 
+    gender: female
+- harriett: 
+    gender: female
+- harriette: 
+    gender: female
 - harris: 
     gender: male
 - harrison: 
@@ -25,7 +61,17 @@
     gender: male
 - hassan: 
     gender: male
+- hassie: 
+    gender: female
+- hattie: 
+    gender: female
+- haydee: 
+    gender: female
 - hayden: 
     gender: male
+- hayley: 
+    gender: female
 - haywood: 
     gender: male
+- hazel: 
+    gender: female
