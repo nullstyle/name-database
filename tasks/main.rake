@@ -1,3 +1,4 @@
+directory "out"
 
 ["given", "family"].each do |set|
   
